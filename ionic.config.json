@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-dailyco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
