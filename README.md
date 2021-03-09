@@ -8,3 +8,6 @@
 <p align="center">
   <img src="https://github.com/aaronksaunders/ionic-vue-nav-in-modals/blob/master/Screen-Recording-2021-03-08-at-2%20copy.gif"   height="400" /><br/>
 </p>
+
+
+### Blog Post - [How to Navigate in Ionic Modals with ion-nav in VueJS](https://aaronksaunders.hashnode.dev/how-to-navigate-in-ionic-modals-with-ion-nav-in-vuejs)
